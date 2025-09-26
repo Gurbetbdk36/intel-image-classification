@@ -1,6 +1,7 @@
 # intel-image-classification
 
 Giriş
+
 Bu proje, intel image classification kullanılarak görüntü sınıflandırma problemi üzerinde çalışılmıştır.  
 Proje, Kaggle Notebook ortamında geliştirilmiş ve public olarak paylaşılmıştır. Burada toplamda 6 sınıfla çalışılarak bir CNN tabanlı model oluşturulmuştur. Veri ön işleme adımları gerçekleştirildi. Train, val, test verileri sırasıyla yüzde 70, 14, 16 olarak belirlenmiştir. Veri seti dağılım grafikleri oluşturulmuş ve detaylı sınıf bazlı istatistikler belirlenmiştir. Her sınıf için görselleştirme yapılmıştır.
 
