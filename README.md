@@ -22,3 +22,5 @@ ve modelin performansı incelenmiştir. Eğitim süreci sonunda model, eğitim v
 linkler
 
 https://www.kaggle.com/code/gurbetbudak/intel-image-classification
+
+https://github.com/Gurbetbdk36/intel-image-classification/blob/main/intel-image-classification.ipynb
