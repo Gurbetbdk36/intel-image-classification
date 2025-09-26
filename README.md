@@ -14,7 +14,7 @@ Model, belirli sayıda epoch boyunca eğitildi.
 
 Metrikler
 
-Temel bir CNN mimarisi tasarlanmış ve modelin performansı incelenmiştir. Eğitim süreci sonunda model, eğitim verisinde %83.39 doğruluk, doğrulama verisinde ise %86.97 doğruluk elde etmiştir. Loss değerleri incelendiğinde eğitim kaybı 0.8574, doğrulama kaybı ise 0.7671 olarak ölçülmüştür. Ardından, geliştirilmiş CNN mimarisi uygulanmıştır. Bu geliştirilmiş modelde dropout, batch normalization ve veri artırma (data augmentation) gibi yöntemler kullanılarak aşırı öğrenmenin önüne geçilmeye çalışılmıştır. Sonuçlar incelendiğinde eğitim doğruluğu %81.59, doğrulama doğruluğu %81.36 olarak kaydedilmiş; eğitim kaybı 0.5498, doğrulama kaybı ise 0.6103 değerinde gerçekleşmiştir. 
+CNN mimarisi tasarlanmış ve modelin performansı incelenmiştir. Eğitim süreci sonunda model, eğitim verisinde %83.39 doğruluk, doğrulama verisinde ise %86.97 doğruluk elde etmiştir. Loss değerleri incelendiğinde eğitim kaybı 0.8574, doğrulama kaybı ise 0.7671 olarak ölçülmüştür. Ardından, geliştirilmiş CNN mimarisi uygulanmıştır. Bu geliştirilmiş modelde dropout, batch normalization ve veri artırma (data augmentation) gibi yöntemler kullanılarak aşırı öğrenmenin önüne geçilmeye çalışılmıştır. Sonuçlar incelendiğinde eğitim doğruluğu %81.59, doğrulama doğruluğu %81.36 olarak kaydedilmiş; eğitim kaybı 0.5498, doğrulama kaybı ise 0.6103 değerinde gerçekleşmiştir. 
 
 linkler
 
