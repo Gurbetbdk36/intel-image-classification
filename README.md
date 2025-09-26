@@ -1,5 +1,4 @@
 # intel-image-classification
-intel image classification
 
 Giriş
 Bu proje, intel image classification kullanılarak görüntü sınıflandırma problemi üzerinde çalışılmıştır.  
